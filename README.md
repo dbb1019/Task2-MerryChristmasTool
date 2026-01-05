@@ -7,7 +7,6 @@ A small GUI tool to embed WAV cue points and text labels into all `.wav` files i
 Here is a demo video: https://youtu.be/-aQeGe0RvIc?si=dRy-forzCerpBgNn
 
 ## Requirements
-- OS: Windows / macOS
 - Python: 3.8+ (recommended 3.10+)
 - Dependencies: standard library only
 
