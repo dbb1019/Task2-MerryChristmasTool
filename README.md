@@ -1,6 +1,6 @@
 # WAV Label Embedder
 
-** by Annie **
+**by Annie**
 
 A small GUI tool to embed WAV cue points and text labels into all `.wav` files in a selected folder.
 
