@@ -4,7 +4,7 @@
 
 A small GUI tool to embed WAV cue points and text labels into all `.wav` files in a selected folder.
 
-Here is a demo vider: https://youtu.be/-aQeGe0RvIc?si=dRy-forzCerpBgNn
+Here is a demo video: https://youtu.be/-aQeGe0RvIc?si=dRy-forzCerpBgNn
 
 ## Requirements
 - OS: Windows / macOS
