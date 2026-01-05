@@ -1,10 +1,10 @@
-# WAV Label Creator
+# WAV Label Embedder
 
-**Author:** Xuedan Gao  
-**Date:** 2026-01-05
-
+**** by Annie
 
 A small GUI tool to embed WAV cue points and text labels into all `.wav` files in a selected folder.
+
+Here is a demo vider: https://youtu.be/-aQeGe0RvIc?si=dRy-forzCerpBgNn
 
 ## Requirements
 - OS: Windows / macOS
@@ -18,6 +18,6 @@ A small GUI tool to embed WAV cue points and text labels into all `.wav` files i
 - `config.json`
 
 ## How to Run
-Open a terminal / command prompt in the script folder and run:
+Open a terminal/command prompt in the script folder and run:
 ```bash
 python MerryChristmas.py
