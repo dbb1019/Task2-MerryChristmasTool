@@ -1,0 +1,9 @@
+ {
+  "text": "Merry Christmas",
+  "pos": 1024,
+  "encoding": "ascii",
+  "cue_id": 1,
+  "recursive": false,
+  "output_mode": "newfile",
+  "suffix": "_labeled"
+}
